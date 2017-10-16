@@ -87,7 +87,7 @@ form{
 			echo Form::text('stuName');
             echo '<br/>';
             
-			echo Form::label('Student Index');
+			echo Form::label('Student Index No');
 			echo '<br/>';
             echo Form::text('stuIndex');
             echo '<br/>';
